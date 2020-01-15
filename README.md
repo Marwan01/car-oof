@@ -1,10 +1,10 @@
-# car-oof: Dump your glovebox paperwork here.
+# car-oof
 
-### Car ticket photo saving app to a Firebase database. 
+### Car ticket photo saving app to a Firebase database. Dump your glovebox paperwork today.
 
 Made with React Native & Firebase using Expo.
 
-Try the app here: expo link
+Try the app here: https://expo.io/@marwanest1/car-oof
 
 ## Getting Started
 
