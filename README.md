@@ -1,8 +1,8 @@
 # car-oof
 
-### Car ticket photo saving app to a Firebase database. Dump your glovebox paperwork today.
+### Simple React Native app to store important car documents to a Firebase Database. Go paperless, dump your old traffic tickets, and empty your glovebox today, with the help of this app and the reliability of Google Firebase.
 
-Made with React Native & Firebase using Expo.
+![demogif](/assets/demo.gif)
 
 Try the app here: https://expo.io/@marwanest1/car-oof
 
