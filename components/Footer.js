@@ -3,7 +3,7 @@ import { StyleSheet, Text, TouchableHighlight } from 'react-native';
 import { Ionicons } from "@expo/vector-icons";
 
 const Icon = ({ name }) => (
-  <Ionicons style={{ paddingHorizontal: 165 }} name={name} size={60} color="black" />
+  <Ionicons style={{ color: "gray" }} name={name} size={60} color="black" />
 );
 
 export default class Footer extends React.Component {
@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
     flexDirection: 'row',
     justifyContent: 'space-between',
-    alignItems: 'center',
+    alignSelf: 'center',
     borderTopWidth: StyleSheet.hairlineWidth,
     borderTopColor: 'rgba(0,0,0,0.3)',
   },

@@ -9,7 +9,6 @@ export default class Item extends React.Component {
 
   componentDidMount() {
     if (!this.props.imageWidth) {
-      // Get the size of the web image
       Image.getSize(this.props.image, (width, height) => {
         this.setState({ width, height });
       });
@@ -19,7 +18,6 @@ export default class Item extends React.Component {
   render() {
     const { text, name, imageWidth, imageHeight, uid, image } = this.props;
 
-    // Reduce the name to something
     const imgW = imageWidth || this.state.width;
     const imgH = imageHeight || this.state.height;
     const aspect = imgW / imgH || 1;

@@ -1,10 +1,17 @@
 {
   "name": "car-oof",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Car ticket photo saving app to a Firebase database.",
-  "author": "Mar",
-  "private": true,
+  "author": "Marwan01",
   "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marwan01/car-oof.git"
+  },
   "dependencies": {
     "expo": "^35.0.0",
     "expo-constants": "~7.0.0",
