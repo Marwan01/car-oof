@@ -1,6 +1,6 @@
 # car-oof
 
-### Simple React Native app to store important car documents to a Firebase Database. Go paperless, dump your old traffic tickets, and empty your glovebox today, with the help of this app and the reliability of Google Firebase.
+### Simple React Native app that can be used to store important car documents to a Firebase Database. Go paperless, dump your old traffic tickets, and empty your glovebox today, with the help of this app and the reliability of Google Firebase.
 
 ![demogif](/assets/demo.gif)
 
@@ -57,6 +57,13 @@ Build with:
 expo build
 ```
 
+Next Steps:
+
+[Check the issues page for what to implement next.](https://github.com/Marwan01/car-oof/issues)
+
+
 Credits:
 
 Tutorial followed: https://blog.expo.io/instagram-clone-using-firebase-react-native-expo-cc32f61c7bba
+
+
