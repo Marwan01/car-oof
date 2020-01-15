@@ -2,16 +2,16 @@
 
 ### Car ticket photo saving app to a Firebase database.
 
-Made with Expo & Web Firebase SDK
+Made with React Native, Expo & Firebase
 
-Tutorial: https://blog.expo.io/instagram-clone-using-firebase-react-native-expo-cc32f61c7bba
+Tutorial followed: https://blog.expo.io/instagram-clone-using-firebase-react-native-expo-cc32f61c7bba
 
 ## Getting Started
 
-Download with: 
+Clone the Repo, then: 
 
 ```sh 
-git clone https://github.com/EvanBacon/firebase-instagram.git && cd firebase-instagram
+cd car-oof
 ```
 
 Install Libs:
